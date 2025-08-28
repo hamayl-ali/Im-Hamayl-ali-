@@ -8,8 +8,8 @@ I’m also working towards opportunities for higher studies, to specialize in ne
 
 
 
---- Interests: Networking, Cybersecurity, Operating Systems, System Programming
+--- Interests: Networking, Cybersecurity, Operating Systems, System Programming.
 
----Skills in progress: Python, C++, Java, Linux, Socket Programming
+---Skills in progress: Python, C++, Java, Linux, Socket Programming.
 
---- Future Goal: Master’s in Cybersecurity/Networking in Europe and contributing to global-scale projects 
+--- Future Goal: Master’s in Cybersecurity/Networking in Europe and contributing to global-scale projects.
